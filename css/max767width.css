@@ -1,0 +1,12 @@
+
+body{ background:url(../images/bg_small.jpg);width:100%}
+.time_txt{ padding:0px 0px 0px 0px;}
+.hand{ padding:10px 0px 0px 0px;}
+.sub_container{width: 680px;}
+.strip{ background:url(../images/Strip.png) ; height:2px;margin: 10px 0px 0px 0px;}
+.f_btn{ }
+.fault {
+margin-left: 57px;
+}
+
+#main{ background:url(../images/bg_767.jpg);background-size: 100%;width:100%}

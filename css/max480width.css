@@ -1,0 +1,38 @@
+
+
+
+body{ background:url(../images/bg_small.jpg)}
+.time_txt{ padding:0px 0px 0px 0px; background-image: url(../images/timetap_bg2.png)}
+.hand{ padding:10px 0px 0px 0px;}
+.sub_container{width: 320px;}
+.strip{ background:url(../images/Strip.png) ; height:2px;margin: 10px 0px 0px 0px;}
+.f_btn{display:block; }
+.btn_n {background-image: url(../images/signout_buttom_small1.png); width:100px; height:52px; font-size:16px;}
+.anch{ height:50px; padding-top:18px;}
+.mid_area_1{ }
+.fault {
+margin-left: 28px;
+}
+
+#main{ background:url(../images/bg_480.jpg);background-size: 100%;}
+.user_txt{ font-size:16px; width:120px;}
+.signout_btn{ background-image: url(../images/signout_buttom_small1.png); width:100px; height:52px; font-size:16px;}
+.faulty{background-image: url(../images/signout_buttom_small1.png); width:100px; height:52px; font-size:16px;}
+
+.customer{ width:350px;}
+.customer_txtbox{ width: 108px;
+height: 48px;
+font-size: 20px;}
+.mar_l {margin-left: 14px;}
+
+.in_queue{font-size: 11px; width:33%}
+.customer{ width:191px;}
+.margin_btn {
+float: none;
+margin-top: 10px !important;
+}
+.in_queue{ margin:20px 0px;}
+.new_area_1{ width:60%}
+.customer_txtbox{ float:none}
+
+.in_queue_txt{ font-size:11px;}

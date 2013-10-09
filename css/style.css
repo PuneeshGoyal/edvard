@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{margin:0px; padding:0px; word-wrap: break-word; font-family:Calibri; background:url(../images/bg.jpg); width:100%}
+.clear{clear:both}
+input text{ outline:none}
+h1,h2,h3,h4,h5,h6,img,a,ul,input{margin:0px; padding:0px; list-style-type:none;outline:none;border:0px; text-decoration:none}
+
+@font-face{
+ font-family:Arial bold;
+ src:url(../fonts/OpenSans-Bold.ttf);	
+	
+}
+@font-face{
+ font-family:Arial bold;
+ src:url(../fonts/OpenSans-Regular.ttf);	
+	
+}
+img{
+max-width:100%;
+background-size:100% 100%;	
+	}
+/*------------------------------------facebook screen start-----------------------------*/
+.time_txt{ padding:0px 0px 0px 0px; background-image:url(../images/timetap.png); background-repeat: no-repeat; width:100%;height:100px;}
+.hand{ padding:10px 0px 0px 0px;}
+.sub_container{width: 691px;}
+.strip{ background:url(../images/Strip.png); height:1px;margin: 10px 0px 0px 0px;}
+.f_btn{display:block; background:url(../images/facebook_btn.png) no-repeat; font-family:Arial, Helvetica, sans-serif; font-size:21.9px; font-weight:bold; 
+color: #fff;
+width: 332px;
+height: 62px;
+padding-top: 25px;
+text-align: right;
+padding-right: 25px;}
+/*------------------------------------facebook screen  end-----------------------------*/
+
+/*------------------------------------time tap pages start-----------------------------*/
+.mid_area{margin-top: 240px;}
+.btn_n{ background-image:url(../images/blue_button_small.png); width:130px; height:68px; font-size:20px; color:#fffefe; font-family:Arial; cursor:pointer; background-color:transparent;background-repeat:no-repeat;display: block; font-weight:bold;
+float: left;}
+.margin_btn{  float:right}
+.ent_txt{font-size:35px; color:#fffefe; font-family:Arial; padding-bottom:10px;font-weight:bold;}
+.txt_b{font-size:18px; color:#fffefe; font-family:Arial; font-weight:bold;}
+.txt_a{ color:#008bff; font-size:16px;}
+.ent_table{ width:116px;}
+.ent_table tr{ padding-bottom:10px; text-align:center}
+.mid_area_1{width:100%}
+.mid_area_new{ padding:30px 0px;}
+.anch{padding-top: 23px; height:72px; float:right}
+.mid_area_1{ }
+.fault{ margin-left: 59px;}
+.user_txt{ float:left;margin: 22px 0 0 26px; font-family:Arial; font-size:20px; background-color:transparent; outline:none; border:none; color:#fff; font-weight:bold;}
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #fff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #fff;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #fff;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #fff;
+}
+.signout_btn{ float:right; background-image:url(../images/blue_button_small.png); width:130px; height:68px; background-color:transparent; border:none; outline:none; cursor:pointer;font-family:Arial; font-size:20px;  color:#fff; margin:10px 0 0 0; font-weight:bold;}
+.in_queue{ font-family:Arial; font-size:17px; color:#fff; float:left; margin:20px 10px 20px 0px; width:38%; text-align:left; font-weight:bold;}
+.customer_txtbox{ float:left; width:150px; height:64px; border:2px solid; font-size:28px;}
+.queue{ margin-top:70px}
+.served{ margin-top:150px;}
+.serv_new{margin-top:54px}
+.mar_l{ /*margin-left:22px;*/}
+.customer{ float:left; width:492px;}
+.customer-inline{ float:left;}
+.faulty{ float:right; background-image:url(../images/blue_button_small.png); width:130px; height:68px; border:none; outline:none; background-color:transparent; cursor:pointer;font-family:Arial; font-size:20px;  color:#fff; margin:70px 0px 20px 0; font-weight:bold;}
+.defect_ryt{ float:right;padding-top: 65px;}
+.in_queue_txt{font-family: Arial;
+font-size: 17px;
+color: #fff;
+padding:20px 0px 0px 0px;
+font-weight: bold;}
+.new_area_1{ float:left; width:72%;}
+/*------------------------------------time tap pages end-----------------------------*/
+
+/*------------------------------------splash start-----------------------------*/
+#main{ background:url(../images/bg_splash.png); width:100%;}
+.time_txt_main{ padding:2% 0px 0px 0px;}
+.hand_img{ padding-top:10px; position:absolute; right:0px; left:0px; bottom:0px;}
+/*------------------------------------splash end-----------------------------*/
+  
+
+
+
+
+
+
+
+
